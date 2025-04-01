@@ -9,8 +9,6 @@
 
 # Vanguard Audit Group
 
-Vanguard Audit Group // todo
-
 You can see the past public audit results at [Sherlock](https://audits.sherlock.xyz/watson/dod4ufn)
 
 # Contests
@@ -55,6 +53,5 @@ Services we currently offer:
 
 For private requests, you can reach out via:
 
-- 🐦 Twitter [Vanguard Audit Group](https://x.com/VanguardAudit)
 - 📧 e-mail [Vanguard Audit Group](vanguard.audit.group@protonmail.com)
 - 📲 Telegram [soon](soon)
